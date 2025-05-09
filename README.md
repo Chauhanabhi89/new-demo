@@ -1,3 +1,3 @@
 # new-demo
 This is my first git repository.
-Author - Abhi
+Author - Abhishek chauhan
